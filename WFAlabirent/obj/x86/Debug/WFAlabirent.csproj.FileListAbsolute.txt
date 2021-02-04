@@ -1,0 +1,9 @@
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\bin\Debug\WFAlabirent.exe
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\bin\Debug\WFAlabirent.pdb
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.Form1.resources
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.Properties.Resources.resources
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.csproj.GenerateResource.Cache
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.exe
+c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.pdb
+C:\Users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.csprojResolveAssemblyReference.cache
+C:\Users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.Form2.resources
