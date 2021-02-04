@@ -26,7 +26,7 @@ namespace WFAlabirent
         private void label28_Click(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Tebikler çok kolaydı zaten kör bile koklaya koklaya yapar");
+            MessageBox.Show("Tebikler Bitişe Ulaştınız);
             this.Hide();
 
             Form2 Frm2 = new Form2();
@@ -61,14 +61,14 @@ namespace WFAlabirent
         private void label2_MouseEnter(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Alttan giricen mk");
+            MessageBox.Show("Lütfen Başlangıç Kısmından Girin");
             Application.Exit();
         }
 
         private void label3_MouseEnter(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Alttan giricen mk");
+            MessageBox.Show("Lütfen Başlangıç Kısmından Girin");
             Application.Exit();
         }
 
@@ -80,7 +80,7 @@ namespace WFAlabirent
         private void label25_MouseEnter(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Baklavayı kaybettin :(");
+            MessageBox.Show("Baklavayı kaybettiniz :(");
             Application.Exit();
         } 
     }
