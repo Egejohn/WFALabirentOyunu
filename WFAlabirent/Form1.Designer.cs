@@ -135,7 +135,7 @@
             // 
             this.label7.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label7.Location = new System.Drawing.Point(12, 461);
+            this.label7.Location = new System.Drawing.Point(12, 442);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(129, 19);
             this.label7.TabIndex = 0;
@@ -146,7 +146,7 @@
             // 
             this.label8.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label8.Location = new System.Drawing.Point(120, 264);
+            this.label8.Location = new System.Drawing.Point(138, 264);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(21, 197);
             this.label8.TabIndex = 0;
@@ -157,7 +157,7 @@
             // 
             this.label9.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label9.Location = new System.Drawing.Point(68, 200);
+            this.label9.Location = new System.Drawing.Point(738, 345);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(21, 197);
             this.label9.TabIndex = 0;
@@ -168,7 +168,7 @@
             // 
             this.label10.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label10.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label10.Location = new System.Drawing.Point(12, 181);
+            this.label10.Location = new System.Drawing.Point(91, 163);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(129, 19);
             this.label10.TabIndex = 0;
@@ -179,7 +179,7 @@
             // 
             this.label11.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label11.Location = new System.Drawing.Point(12, 264);
+            this.label11.Location = new System.Drawing.Point(458, 245);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(129, 19);
             this.label11.TabIndex = 0;
@@ -320,7 +320,7 @@
             // 
             this.label24.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label24.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label24.Location = new System.Drawing.Point(285, 181);
+            this.label24.Location = new System.Drawing.Point(275, 181);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(181, 19);
             this.label24.TabIndex = 0;
@@ -365,10 +365,11 @@
             this.label28.BackColor = System.Drawing.Color.Green;
             this.label28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(26, 97);
+            this.label28.Image = ((System.Drawing.Image)(resources.GetObject("label28.Image")));
+            this.label28.Location = new System.Drawing.Point(26, 245);
             this.label28.Name = "label28";
             this.label28.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label28.Size = new System.Drawing.Size(94, 83);
+            this.label28.Size = new System.Drawing.Size(106, 195);
             this.label28.TabIndex = 1;
             this.label28.Text = "FINISH";
             this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -448,7 +449,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "OYUN MOYUN";
+            this.Text = "LAB-İ RENT OYUNU";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

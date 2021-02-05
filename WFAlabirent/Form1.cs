@@ -19,23 +19,17 @@ namespace WFAlabirent
         private void label1_MouseEnter(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Baklavayı öyle kolay alamazsın");
+            MessageBox.Show("Kolay Yoldan Başarı Yok");
             Application.Exit();
         }
 
         private void label28_Click(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Tebikler Bitişe Ulaştınız);
+            MessageBox.Show("Tebikler Bitişe Ulaştınız");
             this.Hide();
 
-            Form2 Frm2 = new Form2();
-            Frm2.Show();
-            
               
-           
-            
-             
         }
         int sayac = 0;
         private void timer1_Tick(object sender, EventArgs e)
@@ -43,7 +37,7 @@ namespace WFAlabirent
             if (sayac==100)
             {
                 timer1.Stop();
-                MessageBox.Show("Baklavanın tarihi geçti.");
+                MessageBox.Show("Süreniz Doldu.");
                 Application.Exit();
             }
 
@@ -80,7 +74,7 @@ namespace WFAlabirent
         private void label25_MouseEnter(object sender, EventArgs e)
         {
             timer1.Stop();
-            MessageBox.Show("Baklavayı kaybettiniz :(");
+            MessageBox.Show("Denemeye Devam 'Engeller beni durduramaz, her bir engel kararlılığımı daha da güçlendirir.'-Leonardo da Vinci- .","Oyunu Kaybettiniz :(" );
             Application.Exit();
         } 
     }

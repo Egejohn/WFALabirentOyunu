@@ -7,3 +7,11 @@ c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabi
 c:\users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.pdb
 C:\Users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.csprojResolveAssemblyReference.cache
 C:\Users\egeca\onedrive\belgeler\visual studio 2010\Projects\WFAlabirent\WFAlabirent\obj\x86\Debug\WFAlabirent.Form2.resources
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.exe
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.pdb
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\bin\Debug\WFAlabirent.exe
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\bin\Debug\WFAlabirent.pdb
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.csprojResolveAssemblyReference.cache
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.Form1.resources
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.Properties.Resources.resources
+C:\Users\egeca\OneDrive\Belgeler\Visual Studio 2010\Projects\WFAlabirent\WFAlabirent\WFALabirentOyunu\WFAlabirent\obj\x86\Debug\WFAlabirent.csproj.GenerateResource.Cache
